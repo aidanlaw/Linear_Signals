@@ -9,5 +9,8 @@ figure;
 plot(t,y,'r--');
 
 polyroot = roots(poly);
+
+% Example
+% Polynomial([1 -4.5 5 -1.5],[-10 10])
 end
 
